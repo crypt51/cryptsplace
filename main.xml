@@ -8,6 +8,16 @@
 </dir>
 
 <dir>
+      <title>Popular Movies</title>
+      <tmdb>movies/popular</tmdb>
+    </dir>
+	
+	<dir>
+      <title>In Theatres Now</title>
+      <tmdb>movies/now_playing</tmdb>
+    </dir>
+	
+<dir>
 <title>Search</title>
 <tmdb>search</tmdb>
 </dir>
