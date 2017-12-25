@@ -11,15 +11,15 @@
 </dir>
 
 <dir>
-<title>Mix of Favorites</title>
-<tmdb>list/40560</tmdb>
+<title>Christmas</title>
+<tmdb>list/40645</tmdb>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
 
 <dir>
-<title>Christmas</title>
-<tmdb>list/40645</tmdb>
+<title>Elvis</title>
+<tmdb>list/43091</tmdb>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
@@ -34,6 +34,13 @@
 <dir>
 <title>Just for Scarlett</title>
 <tmdb>list/40767</tmdb>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Mix of Favorites</title>
+<tmdb>list/40560</tmdb>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
