@@ -46,6 +46,11 @@
 </dir>
 
 <dir>
+    <title>2017 Movies</title>
+    <tmdb>year/movies/2017</tmdb>
+  </dir>
+
+<dir>
 <title>Troma - kings of cheese</title>
 <tmdb>list/43152</tmdb>
 <thumbnail></thumbnail>
